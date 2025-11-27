@@ -4,6 +4,7 @@ using namespace std;
 void topla() {
     
     int k = 5, e = 3;
+    cout << "\n ===== TOPLAMA İŞLEMİ YAPILIYOR ===== \n\n" << endl;
     cout << "1. sayıyı girin \t: " ;
     cin >> k;
     cout << "2. sayıyı girin \t: " ;
@@ -14,6 +15,7 @@ void topla() {
 void cikar()
 {
     int fark,k = 5, e = 3;
+    cout << "\n===== ÇIKARMA İŞLEMİ YAPILIYOR ===== \n\n" << endl;
     cout << "1. sayıyı girin \t: " ;
     cin >> k;
     cout << "2. sayıyı girin \t: " ;
